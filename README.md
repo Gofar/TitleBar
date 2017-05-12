@@ -29,7 +29,7 @@ Simple Code
 </LinearLayout>
 
 在代码中应用
-
+```java
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,6 +47,7 @@ Simple Code
             }
         });
     }
+```
 效果图
 
 
