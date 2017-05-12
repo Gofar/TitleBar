@@ -1,10 +1,10 @@
 # TitleBar
 自定义标题居中的ToolBar，也可以将自定义View添加到ToolBar的左边、中间、右边
 
-# 使用
+## 使用
 可以将TitleBar.java复制到自己的项目中
 
-# Simple Code
+## Simple Code
 
 在xml直接使用
 <?xml version="1.0" encoding="utf-8"?>
@@ -29,7 +29,7 @@
 </LinearLayout>
 
 在代码中应用
-```java
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,8 +47,8 @@
             }
         });
     }
-```
+
 效果图
 
 
-# 详细介绍
+## 详细介绍
