@@ -51,7 +51,11 @@
     }
 ```
 效果图
+
 ![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-154136.png)
+![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-161217.png)
+![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-161249.png)
+![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-161311.png)
 
 ## 详细介绍
 
