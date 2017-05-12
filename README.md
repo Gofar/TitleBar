@@ -50,7 +50,7 @@
         });
     }
 ```
-效果图
+## 效果图
 
 ![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-154136.png)
 ![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-161217.png)
