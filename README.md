@@ -7,6 +7,7 @@
 ## Simple Code
 
 在xml直接使用
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -27,9 +28,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
+```
 
 在代码中应用
-
+```java
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,7 +49,7 @@
             }
         });
     }
-
+```
 效果图
 
 
