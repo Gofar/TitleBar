@@ -103,7 +103,7 @@ public class TitleBar extends Toolbar {
                 addCenterView(mCenterTextView);
             }
         } else if (mCenterTextView != null && mCenterTextView.getParent() == this) {
-            // mCenterTextView已添加时，若设置title为null,就移除mCenterTextView
+            // mCenterTextView已添加时，若设置title为空,就移除mCenterTextView
             removeView(mCenterTextView);
         }
         if (mCenterTextView != null) {
