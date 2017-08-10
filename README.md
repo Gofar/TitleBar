@@ -32,6 +32,8 @@
 
 在代码中应用
 ```java
+public class CenterTitleActivity extends AppCompatActivity {
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,6 +51,7 @@
             }
         });
     }
+}
 ```
 ## 效果图
 
@@ -58,7 +61,7 @@
 ![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-161311.png)
 
 ## 详细介绍
-
+详细情况看博客介绍：https://gofar.github.io/2017/08/09/Title-centered-ToolBar/
 ## License
 ```
     Copyright (C) 2017 Gofar
