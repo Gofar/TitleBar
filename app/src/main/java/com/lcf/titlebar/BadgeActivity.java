@@ -8,8 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.gofar.titlebar.TitleBar;
 import com.lcf.titlebar.widget.BadgeView;
-import com.lcf.titlebar.widget.TitleBar;
 
 /**
  * Author: lcf

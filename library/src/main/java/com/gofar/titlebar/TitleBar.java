@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lcf.titlebar.widget;
+package com.gofar.titlebar;
 
 import android.content.Context;
 import android.support.annotation.ColorInt;
@@ -31,13 +31,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.lcf.titlebar.R;
-
 /**
- * Author: lcf
- * Description:自定义ToolBar，可以标题居中，可以往左边、中间、右边添加自定义View
- * Since: 1.0
- * Date: 2017/5/10 17:23
+ * 自定义ToolBar，可以标题居中，可以往左边、中间、右边添加自定义View
  */
 public class TitleBar extends Toolbar {
     /**

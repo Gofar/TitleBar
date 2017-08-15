@@ -1,16 +1,33 @@
-apply plugin: 'com.android.application'
+/*
+ * Copyright (C) 2017 Gofar
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
+
     defaultConfig {
-        applicationId "com.lcf.titlebar"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
+
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        vectorDrawables.useSupportLibrary = true
+
     }
     buildTypes {
         release {
@@ -26,10 +43,5 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:26.+'
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile 'com.android.support:design:26.+'
-    compile 'com.android.support:support-v4:26.+'
-    compile 'com.android.support:support-vector-drawable:26.+'
     testCompile 'junit:junit:4.12'
-    compile project(path: ':library')
 }

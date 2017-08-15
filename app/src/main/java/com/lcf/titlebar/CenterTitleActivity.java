@@ -5,7 +5,7 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.lcf.titlebar.widget.TitleBar;
+import com.gofar.titlebar.TitleBar;
 
 /**
  * Author: lcf
