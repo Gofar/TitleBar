@@ -61,7 +61,7 @@ public class CenterTitleActivity extends AppCompatActivity {
 ![image](https://github.com/Gofar/TitleBar/blob/master/screenshots/device-2017-05-12-161311.png)
 
 ## 详细介绍
-详细情况看博客介绍：https://gofar.github.io/2017/08/09/Title-centered-ToolBar/
+详细情况看[博客](https://gofar.github.io/2017/08/09/Title-centered-ToolBar/)介绍。
 ## License
 ```
     Copyright (C) 2017 Gofar
