@@ -1,12 +1,12 @@
 # TitleBar
-自定义标题居中的ToolBar，也可以将自定义View添加到ToolBar的左边、中间、右边
+自定义标题居中的ToolBar，也可以将自定义View添加到ToolBar的左边、中间、右边。
 
 ## 使用
-可以将TitleBar.java复制到自己的项目中
+可以将TitleBar.java复制到自己的项目中。
 
 ## Simple Code
 
-在xml直接使用
+在xml直接使用：
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -30,7 +30,7 @@
 </LinearLayout>
 ```
 
-在代码中应用
+在代码中应用：
 ```java
 public class CenterTitleActivity extends AppCompatActivity {
 
