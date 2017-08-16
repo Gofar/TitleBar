@@ -2,7 +2,10 @@
 自定义标题居中的ToolBar，也可以将自定义View添加到ToolBar的左边、中间、右边。
 
 ## 使用
-可以将TitleBar.java复制到自己的项目中。
+可以将TitleBar.java复制到自己的项目中，或者直接在build.gradle中依赖：
+```
+compile 'com.gofar.titlebar:library:1.0.0'
+```
 
 ## Simple Code
 
