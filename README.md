@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Download-1.0.0-blue.svg)](https://bintray.com/gofar/maven/TitleBar/_latestVersion)[![](https://img.shields.io/badge/license-Apache%202-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://img.shields.io/badge/Download-1.0.0-blue.svg)](https://bintray.com/gofar/maven/TitleBar/_latestVersion) [![](https://img.shields.io/badge/license-Apache%202-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 # TitleBar
 自定义标题居中的ToolBar，也可以将自定义View添加到ToolBar的左边、中间、右边。
