@@ -1,12 +1,12 @@
-[ ![Download](https://api.bintray.com/packages/gofar/maven/TitleBar/images/download.svg) ](https://bintray.com/gofar/maven/TitleBar/_latestVersion) [![](https://img.shields.io/badge/license-Apache%202-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[ ![Download](https://api.bintray.com/packages/gofar/maven/titlebar/images/download.svg) ](https://bintray.com/gofar/maven/titlebar/_latestVersion) [![](https://img.shields.io/badge/license-Apache%202-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 # TitleBar
 自定义标题居中的ToolBar，也可以将自定义View添加到ToolBar的左边、中间、右边。
 
 ## 使用
 可以将TitleBar.java复制到自己的项目中，或者直接在build.gradle中依赖：
-```
-compile 'com.gofar.titlebar:library:1.0.0'
+```gradle
+compile 'com.gofar:titlebar:1.0.1'
 ```
 
 ## Simple Code
